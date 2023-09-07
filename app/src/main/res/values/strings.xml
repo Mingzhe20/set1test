@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="course">Course:</string>
+
+    <string-array name="spinner_array">
+        <item>Introduction to Computer Security</item>
+        <item>Mobile Application and Developement</item>
+        <item>Computer Network</item>
+    </string-array>
+</resources>
